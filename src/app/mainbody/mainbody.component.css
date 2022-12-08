@@ -1,0 +1,14 @@
+#box_order {
+    Display: flex;
+    
+    Margin: auto;
+    margin-left: 30px;
+    margin-top: 20px;
+    text-overflow: ellipsis;
+
+  }
+
+  #h1mb{
+text-align: center;
+
+  }
